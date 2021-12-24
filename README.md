@@ -52,5 +52,4 @@ https://blog.smittytone.net/2021/02/02/program-raspberry-pi-pico-c-mac/
 
 Connect a micro-sd card with text files, and display the text on the led display.
 
-![Screenshot](ledsdcard.jpg | with=100)
-
+![Leds and sdcard](./ledsdcard.png)
